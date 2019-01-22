@@ -230,6 +230,129 @@ pass is nuid
 * maltreatment => violence
 * the genes accelerated the effects of maltreatment
 # 1-22-18
-## reading (anna's notes)
+# reading (anna's notes)
 ![](https://cdn.discordapp.com/attachments/502956287043174407/537356399773220866/Screen_Shot_2019-01-22_at_2.41.54_PM.png)
 * search email for actual text
+# class
+* quiz due friday, will be up today after class
+* covers research methods, gene behavior, and stuff from today
+* 30 MC questions
+* open book
+## prenatal development
+* **zygote** is a fertilized egg
+* zygote -> embryo
+## teratogens
+* chemicals that can enter the placenta and harm development
+* pregnancy symptoms like nausea protect the fetus from teratogens, so they're beneficial and probably are products of evolution
+* symptoms overlap with period of extreme fetal vulnerability
+* alcohol is a big teratogen
+* fetal alcohol spectrum disorder
+  * small brains
+  * deformations
+  * intellectual disabilities
+  * prone to seizures
+  * ADHD
+## newborns
+* born with reflexes
+  * sucking, rooting (orienting mouth towards things touching face), grasping, crying
+* comforted by touch, rocking, familiar noises
+* comforted when they smell mother's milk
+* like parents' voices
+* recognize caregiver faces
+* aren't bothered by a dog barking if the dog was barking while the baby was in the womb.
+## temperament
+* a baby's reactivity and intensity
+* behaviorally inhibited
+  * shy
+  * fearful
+* behaviorally uninhibited
+  * bold
+  * positive
+* uninhibited are cool, chill babies
+* do these temperaments change?
+## experiment
+* 4 months old -> 4 years
+* uninhibited mostly sticks (80%)
+  * why do some people flip? (5%)
+  * maybe abuse
+* inhibited either sticks or becomes variable(sometimes fearful, sometimes not). about half and half
+* 12% inhibited flip to positive
+## video
+* same temperamental differences in monkeys
+* environmental influences on temperament in monkeys
+  * environment overrides genetic, original temperament
+  * same in humans
+---
+* inhibited => high neuroticism later
+## attachment
+* how do attachments form?
+* what factors facilitate it?
+* **Harry Harlow's** monkey experiments
+  * feed baby = baby attached? Harlow didn't think so
+  * Harlow thought it was also comfort based, not just nourishment
+  * he had a wireframe mother monkey with a food bottle, and a cloth mother that looked like a monkey with no food bottle
+  * the wireframe was literally a cylinder with a bottle
+  * the wireframe-nursed monkey was afraid when he entered the room, the cloth-nursed monkey ran to his cloth mother, played with it, and explored the room curiously and happily
+  * therefore feeding isn't all there is to attachment
+* similar thing with incubated babies vs babies that were regularly held
+* being held made them healthier
+* kids from Russian orphanages weren't held much, just fed
+* they developed emotional problems
+* giving a baby love is essential for its emotional and physical future
+* but how does this happen biologically?
+* oxytocin
+  * hormone that helps with formation of attachments
+  * lack of love as a baby => little oxytocin release in the future => difficulty forming attachments
+## maternal care in rats
+* epigenetic effect
+* less expression of receptor genes in the brain depending on maternal care
+## attachment theory
+* **john bowlby**
+  * influenced by darwin
+  * it's an evolved mechanism that helps helpless babies
+* **mary ainsworth**
+  * classic procedure for classifying patterns of attachment
+  * the "strange situation paradigm" and attachment styles
+    * put baby and parent in a strange situation
+    * record how they react
+    * ex: letting them in a room with toys and some stranger comes in, then the parent leaves. how does the kid react?
+  * styles
+    * secure attachment (60%)
+      * comfortable to explore if mom is there
+      * ok with stranger
+      * signal needs when stressed
+      * seek contact, ok with loneliness
+      * comforted when mom comes back
+    * insecure
+      * avoidant (20%)
+        * little exploring
+        * avoid mom (independent)
+        * ok with separation
+        * treat stranger like parent
+      * anxious-ambivalent (20%)
+        * almost no exploration
+        * presence of parent not enough to comfort
+        * don't like stranger
+        * mixed reaction to mom's comfort (sometimes clingy, sometimes angry)
+* high levels of warmth =>
+  * secure attachment
+  * independence (coddling =/> over-dependence)
+  * social competence
+  * high self-esteem
+  * low aggression
+* attachment is based on expectations we learn to have
+* expecting parents to be dependable leads to secure vs anxious vs avoidant (avoidant is from lowest expectation of dependability)
+* attachment changes from parents to peers
+* from peers to romantic partners
+* secure romantic attachment style
+  * easily trusting
+  * intimate
+  * low worrying
+  * responsive to needs
+* avoidant
+  * lots of brief relationships
+  * need a lot of space in a relationship
+* anxious or ambivalent
+  * fear of rejection
+  * fear of lack of reciprocation
+* could be weird if you have one style with mom and another one with dad
