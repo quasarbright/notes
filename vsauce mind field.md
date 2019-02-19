@@ -356,3 +356,351 @@ pass is nuid
   * fear of rejection
   * fear of lack of reciprocation
 * could be weird if you have one style with mom and another one with dad
+# 1-24-18 quiz
+**Q** Abuse victims are at considerable risk for ____________ if they carry a __________ MAOA gene variation.  
+**A** committing violent crimes; low-activity
+# 1-25-18 more developmental psychology
+## autism spectrum disorder
+* varies in severity
+* hindered ability to communicate and socially interact
+  * eye to eye gaze, perspective taking, lack of imagination and play, don't know what pointing means
+* restricted patterns of behavior
+  * insistence on same routine, fixated interests, ritualized repetition of movements/speech
+* severities can change with age
+* diagnosis specifies whether there is language impairment and intellectual impairment
+* symptoms recognized before 2 years
+* regressive phenotype: 30% of individuals: normal development followed by rapid deterioration before age 2
+* 1.7% of births in US
+* 4-5x more common in boys
+* aspergers is now called autism spectrum disorder without language or intellectual impairment
+## john piaget and cognitive development
+* studied cognitive errors in children
+* **schema**: concept that organizes and interprets info
+* **assimilation**: interpreting experiences in terms of current schema
+* **accommodation**: adapting current schema to incorporate new info
+* development is a loop of assimilation and accommodation
+* scaling issues: kids see a little toy slide and try to go down it. or try to go in a toy car
+* sensorimotor period of development: (-2 years)
+  * acquire information about the world by moving around it
+  * at 8 months, they develop object permanence
+* stage 2: preoperational (2-7 years)
+  * basic understanding of the world
+  * pretend play
+  * egocentric thinking: "everyone has the same perspectives that I have"
+    * they think everyone knows what they know
+  * **theory of mind**: other people have minds of their own
+    * happens in the middle of the stage.like age 4
+    * sally-anne task
+* stage 3: concrete operational (7-12 years)
+  * operations are just logical reasoning
+  * reasoning about concrete objects
+  * analogies
+  * arithmetic
+  * concept of conservation
+    * pouring liquid from one glass into a skinnier one doesn't change how much liquid is in it
+* stage 4: formal operational (12-adulthood)
+  * abstract thinking
+  * hypothetical problems and deducing consequences
+  * moral reasoning evolves
+    * context
+    * gray areas
+# 1-29-18
+# reading
+![neuron diagram](https://cdn.discordapp.com/attachments/502956287043174407/539855095978917953/unknown.png)
+* myelin is a fatty tissue that covers axons and speeds up impulses. Up until you're 25, you get more and more myelin, which increases neural efficiency, judgement, and self control
+* glial cells support, feed, and maintain neurons, since they can't feed themselves. they also give myelin and "chat" with neurons, aiding in information transmission and memory.
+* Einstein had normal neurons, but a lot of glial cells
+* neurons fire all-or-nothing, but a strong stimulus would cause more neurons to fire and more frequently
+# class
+* cell body = soma
+* dendrites recieve, axons send
+* axons can be long. like half your height
+* nodes of ranvier: myelin wrappings are in "globs", not just one big wrapping. spaces of raw axon between are the nodes
+## types
+* sensory (body -> nervous system)
+* motor neurons (nervous -> body)
+* interneurons (connectors within spinal cord and brain)
+## mirror neurons
+* why do we get so invested in watching other people?
+* same neuron fired when doing an action as seeing someone do an action
+* autism may have to do with broken mirror neurons. they don't have the response
+* connected with learning
+* social brain system which is only useful with others
+* experts show more mirror activation than novices
+## how they work
+* resting potential
+  * measured in electrical potential difference
+  * potential difference between inside and outside of neuron at rest
+  * inside = -70 mV
+  * sodium ions outside neuron
+  * potassium ions inside neuron
+  * higher concentration of sodium on outside than potassium on inside means there's relatively more positive charge on the outside
+  * voltage spike = impulse. sodium channels open up, sodium floods the inside, voltage reaches action potential,  potassium leaves, it goes back to resting potential.
+  * sodium/potassium pump restores ion balance and returns the neuron to the resting potential. VERY expensive
+  * all of this happens at the beginning of the axon
+* action potential
+* synaptic neurotransmission
+* propagation of action potential
+  * the action potential goes down the axon
+  * wave of sodium in and potassium out
+  * no myelin = continuous conduction
+    * potential signal has to go down the whole axon
+  * myelinated = saltatory conduction
+    * "skips" the myelinated parts. goes from node to node
+* gray matter is somas and dendrites
+* white matter is myelinated axons and glial cells
+## synapse and neurotransmitters
+* gap between neurons = synapse
+* when potential reaches terminal, neurotransmitters get released to the synapse
+* end of axon has synaptic vesicles
+* the action potential pushes these to the pre-synaptic membrane and they dump the neurotransmitters into it
+* these neurotransmitters are received in receptor sites of dendrites
+* gap is nanometers long
+* specific neurotransmitters are received in specific receptor sites (lock and key)
+* transmission =/> action potential in next neuron
+* excitatory neurotransmitters  depolarize the post-synaptic membrane increasing the likelihood of action potential
+* inhibitory neurotransmitters hyperpolarize and decrease likelihood
+* these communications are summed and a threshold determines an all-or-nothing response in the next neuron
+## signal termination
+* reuptake
+  * sucking the neurotransmitters back into the axon
+  * SSRIs prevent reuptake of serotonin. This leaves them in the synapse and they just keep bouncing around and getting received, making it seem like there's more serotonin. they block the "vacuum" that sucks the neurotransmitters back in
+* enzyme reactivation
+  * break apart the neurotransmitters and then let the parts get sucked back in
+## neurotransmitters
+* acetylcholine is responsible for muscle signals
+* dopamine is rewards
+* norepinephrine mood and arousal
+* serotonin sleep, wakefulness, eating, aggression, mood regulation
+* gaba primary, common inhibitory signal. anxiety and sleep/arousal
+* glutamate common excitatory.
+* endorphine pain relief and stress. eating behavior
+* all excitatory except gaba
+* usually, one neuron releases only one neurotransmitters
+---
+---
+---
+# after first test
+---
+---
+---
+# 2-5-18 drugs and consciousness
+# reading
+* cultural/social expectations of a drug can placebo
+* **neuroadaptation**: brain chemistry adapts to offset the effects of a drug, developing a tolerance for it
+* heavy drinking can suppress REM sleep, where your brain processes and remembers what happened that day. this leads to lack of memories
+* real addiction vs "omg i'm so addicted to ..." is about compulsion, obsession, dysfunction, and uncontrollable use despite knowledge of negative effects
+* quitting smoking is equally successful gradually or abruptly
+* withdrawal symptoms include craving, insomnia, anxiety, irritability, and distractibility. these dissipate in 6 months
+* cocaine inhibits reuptake of serotonin, dopamine, and norepinephrine, meaning they get received more than they should
+* psychoactive drugs:
+![psychoactive drugs](https://cdn.discordapp.com/attachments/502956287043174407/542407509084864552/unknown.png)
+# class
+* psychoactive drugs affect neurotransmitter activity
+* agonists increase neurotransmitter activity
+  * mimic neurotransmitter
+  * inhibit reuptake
+  * bypassing need for action potential (amphetamines)
+* agonists decrease
+  * block receptors
+  * increasing breakdown of neurotransmitters
+  * blocks neurotransmitter release
+* botulinum paralyzes muscles. use it on facial muscles to slow skin aging. use it on breathing muscles to kill someone
+## [a]ddiction
+* addiction = substance use disorder
+* tolerance, dependence, withdrawal
+* many drugs have the opposite effect as they leave your system
+* with certain drugs like alcohol, going cold turkey can actually kill you
+## alcohol use disorder
+* criteria
+![alcoholism criteria](https://cdn.discordapp.com/attachments/502956287043174407/542448587808833596/Screen_Shot_2019-02-05_at_3.56.45_PM.png)
+## dopamine reward pathway
+* produced in the ventral tegmental area VTA
+* nucleus accumbens NAc controls motivation and goal-directed behavior
+* ends up in prefrontal cortex
+## addiction and reward pathway
+* drug use reduces number of dopamine receptors
+* same thing happens with everything
+* with abstinence, these receptors come back
+## depressants
+* alcohol is a gaba agonist and a glutamate antagonist
+* anxiolytics/sedatives reduce anxiety
+  * benzodiazepines, valium
+* hypnotics induce sleep
+  * ambien, quaaludes
+## opiates
+* deprive neural activity, relieve pain
+* opium, morphine, heroin, methadone, painkillers
+* agonists of endorphins and dopamine
+* when you use them too much, your brain gets bad at inhibiting pain
+## stimulants
+* excite neural activity
+* heightened energy
+* dopamine agonist norepinephrine agonist
+* withdrawal: anxiety, insomnia, depression
+* last in your system for a while
+# 2-8-18
+* combining drugs bad
+## overdose
+* 70k deaths a year
+* most common: opioids (fentanyl, heroin, oxycodone), stimulants (cocaine, meth), benzodiazepines  (anti anxiety)
+## psychedelics
+* distort perceptions
+* LSD, mescaline, dmt
+* serotonin agonist
+* acts on receptors
+* no tolerance, no dependence
+## ecstasy/MDMA
+* synthetic stimulant, increases dopamine and serotonin
+* hallucinations, euphoria, feelings of social connectedness (oxytocin)
+* creates a trust bond that lasts even after the drug is active
+## marijuana
+* THC acts on the cannabinoid (CB) receptors
+* inhibits glutamate and gaba
+* inhibiting gaba in the vta -> ^dopamine
+## nervous system
+* central
+  * brain
+  * spinal cord
+* peripheral
+  * somatic
+    * controlling body
+  * autonomic
+    * sympathetic
+      * stress, fight or flight
+    * parasympathetic
+      * return to resting state
+* we used to think the brain stopped growing after birth, but it even keeps growing in adulthood
+## brain maturation
+* birth - 3yr
+  * neural networks enable walking and stuff
+* 3-6
+  * frontal lobe develops, rational planning
+* 6-13
+  * association areas: thinking, mem, language
+## brain stem
+* life sustaining functions
+* medulla, pons, midbrain
+* medulla does heart rate and blood pressure. also does reflexes like vomiting, sneezing, coughing
+* pons
+  * breathing, saliva
+  * motor control, balance
+  * sensory input
+* cerebellum
+  * contains most of the brain's neurons. It's the part behind the brain stem
+  * coordinates and fine tunes motor activity
+  * learning new motor skills with practice makes procedural memories (skill sets)
+  * ability to "autopilot"
+## limbic system
+* emotional processing and mem formation
+* thalamus, hypothalamus, hippocampus, amygdala, anterior cingulate cortex
+* thalamus right on top of brain stems, routs incoming sensory information. allows sensory focus
+* hypothalamus
+  * below thalamus
+  * tiny
+  * endocrine system
+  * hormones
+  * sleep cycle
+  * controls pituitary gland (master of endocrine system)
+* hippocampus
+  * memory
+  * long term
+  * doesn't store it there, it encodes it and stores it somewhere else
+  * spatial memory and navigation
+  * taxi drivers have big hippocampi
+  * continued neurogenesis
+* amygdala
+  * emotional states
+  * spotlights ambiguous stimuli
+  * threat management system
+  * fear processing
+* anterior cingulate cortex
+  * connects limbic sys and prefrontal cortex
+  * control of emotion
+## cerebral lobes
+  * occipital visual info
+  * temporal hearing, language
+  * parietal touch
+  * frontal planning, judgement, mem, reasoning
+* certain areas devotes to certain body regions of sensory input
+# 2-12-18 sense and perception
+# reading
+* sense: detecting stimuli on a low level
+* perception: interpreting stimuli on a higher level
+* absolute threshold: the minimum amount of stimulus to detect a stimulus 50% of the time
+* subliminal: below the threshold for conscious awareness (absolute threshold)
+* priming: often unconscious activation of associations, predisposing responses
+* difference threshold: the minimum difference between 2 stimuli that we can detect 50% of the time
+* weber's law: difference threshold is based on percent change of stimulus, and the minimum is constant for that stimulus
+* subliminal manipulation in advertisement and self help is bs
+# class
+## brain plasticity
+* brains change through experience
+* touch an amputee's face, they have phantom feeling in the gone hand
+* bc hand area is next to face area. face area invades hand area and face stimulus -> hand. bc hand area got no more stimulus
+* children's brains are dummy plastic
+* AUSTRALIA MAN
+* kid had half of his brain removed, other half picked up lost functionality, now he's normal
+## photoreceptors
+* cones and rods
+* rods are good in dim light, peripheral vision
+* concentrated in the periphery
+* more rods than cones
+* a lot in the center of retina (fovea)
+* bright light, color, visual clarity, fine detail
+## more vision stuff
+* bipolar cells aggregate visual signals
+* ganglion cells aggregate bipolar cell output
+* very similar to a convolutional neural network
+* two optic nerves meet at the optic chiasm, which crosses some inputs
+* then sends to the thalamus
+* then thalamus sends to primary visual cortex
+* neurons called feature detector cells (in prim vis cortex)
+* the respond to specific characteristics like shape, angle, movement)
+* literally conv nets
+## high order processing
+* dorsal visual stream: location and motion
+* ventral visual stream: features and identity
+* fusiform gyrus: face perception
+# 2-19-18
+## top down processing
+* perception guided by previous experiences
+* quirkology video deadass
+* when stimuli betray your expectations, it's weird
+* focusing can make you ignore big things. like the gorilla walking across with the basketballs
+## ear
+* outer ear collects sound waves
+* middle amplifies
+* inner ear converts to neural impulses
+## cochlea
+* coiled, fluid filled tube with hair cells that transform sound waves into auditory signals
+## taste
+* gustatory system
+* a tastebud has a bunch of receptors
+* gustatory cortex
+## smell olfactory
+* olfactory receptor neurons
+* 400 types
+* sends signal to the olfactory bulb which connects to limbic system
+* olfactory cortex near gustatory cortex
+* only sense that doesn't go through the thalamus
+## synesthesia
+* people see colors for letters and numbers
+* derek tastes like earwax
+* guy tastes words. rhymes taste similar
+* only tastes from childhood
+## pain
+* nociception
+* two types of nociceptors
+* a-delta fibers
+  * fast, myelinated axons
+  * sharp localized pain
+* c fibers
+  * slow, unmyelinated
+  * long lasting, aching
+* watching someone experience pain triggers the same area of the brain as experiencing it yourself (mirror neurons)
+* amount of activation depends on whether you like or dislike the person experiencing pain
+* emotional pain similar areas to physical pain
+## living without pain
+* HiDdEn LeAf
+* hurt yourself without knowing
