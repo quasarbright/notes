@@ -501,7 +501,7 @@ pass is nuid
   * mimic neurotransmitter
   * inhibit reuptake
   * bypassing need for action potential (amphetamines)
-* agonists decrease
+* antagonists decrease
   * block receptors
   * increasing breakdown of neurotransmitters
   * blocks neurotransmitter release
@@ -609,7 +609,7 @@ pass is nuid
   * spatial memory and navigation
   * taxi drivers have big hippocampi
   * continued neurogenesis
-* amygdala
+* amygdalate
   * emotional states
   * spotlights ambiguous stimuli
   * threat management system
@@ -704,3 +704,125 @@ pass is nuid
 ## living without pain
 * HiDdEn LeAf
 * hurt yourself without knowing
+# 2-22-19 learning
+* classical conditioning, operant conditioning, observational learning
+* associative:
+  * classical: one stimulus predicts the other
+  * operant: behavior leads to outcome
+* behaviorism
+* classical pavlov, watson
+* operant skinner
+## pavlov's dogs
+* conditioned dogs to salivate from various stimuli
+* jim conditioned dwight
+* unconditioned stimulus: altoid
+* unconditioned response: salivate
+* conditioned stimulus: noise
+* conditioned response: salivate (unconditioned stimulus)
+* generalization: stimuli similar to conditioned stimuli can trigger the same conditioned response
+* extinction: when US no longer paired with CS, CR goes away
+## little albert
+* put a little white rat in front of albert. US loud bang noise. Now albert afraid of little white rat
+* some phobias are a result of classical conditioning
+* systematic desensitization can treat severe phobias
+## operant conditioning
+* association between behavior and response
+* reward/punishment learning
+## bf skinner
+* animal pressing lever to get food (positive reinforcement)
+* reinforcement: a consequence that changes whether a behavior will occur again
+* positive and negative reinforcement
+* negative reinforcement is **not** punishment. it's removal of negative. like hitting a button to get rid of a shock
+* extinction happens here too
+* minimize extinction:
+  * reinforcement schedules
+    * continuous reinforcement: reinforce every time
+    * partial reinforcement: only reinforce sometimes
+      * fixed-ratio, variable-ratio, fixed-interval, variable-interval
+      * ratio is number, interval is time
+* fixed ratio:
+  * paid every 10 hamburgers you make, not every hamburger
+* variable ratio: reinforce a response after an **unpredictable** number of responses
+  * slot machine
+* fixed interval: reinforce after a specific time has elapsed
+  * bi-weekly paycheck, daily login bonus
+* variable interval schedule: unpredictable time intervals
+  * random attendance prize
+  * leads to superstition
+* superstition is from us thinking we control randomness
+* shaping: guide behavior toward some complex, specific behavior through successive approximations.
+## punishment
+* a consequence that makes a behavior less likely
+* positive: do something bad to them: ticket for speeding, spank for kid screaming
+  * bad long term (extinction). Even scheduling won't help
+  * fear or resent parent
+  * models aggression as a problem-solver. might make kid hit kids they don't like
+  * does not guide children towards desired behavior
+  * solution: positive opposite: ignore bad behavior, reward good behavior
+* negative: remove something they like: take phone away, time out
+## observational learning
+* monkey see monkey do
+* after seeing a video of someone beating up a doll, kids beat up the doll in new ways they hadn't seen.
+# 2-26-19
+## memory
+* cognitive psych
+* working memory is ram
+* capacity is 7 +- 2
+* grouping smaller chunks can can make it easier to exceed capacity
+* you don't memorize an entire phone number at once, you memorize the area code, the first part, then the second part
+## hermann ebbinghaus
+* practice, rehearsal, and repitition are strategies to retain information
+* memorized a list of nonsense syllables
+* forgot almost linearly over time after stopping rehearsal
+---
+* serial position effect: easy to remember first and last items in a list
+* spacing effect: info better retained if rehearsing is spaced out over time. as opposed to cramming
+## encoding
+* active encoding: take notes, don't just listen
+* spaced retrieval practice
+* visual encoding
+* man was described. they either said "his name is mr baker" or "he is a baker". Since the job conjures imagery, the visual encoding made people remember him better
+* words with images are easier to remember
+## daniel tammet
+* numbers as shapes and landscapes (synesthesia)
+* savant
+* 20,000 digits of pi
+* memory palace: lay out information in a spatial map. use childhood home.
+* seizure at young age "activated" him
+## long term memory explicit memory
+* semantic memory: facts and knowledge
+* autobiographical: personal experiences
+* hippocampus encodes experiences as memory and also moves data from short term to long term. when you recognize, recall, or learn, the hippocampus is responsible. Memories are not stored in the hippocampus, it mediates it
+## implicit memory
+* procedural memory: muscle memory
+* conditioned associations
+* cerebellum and basal ganglia, not hippocampus
+* unconscious retrieval
+## patient H.M.
+* epileptic seizures
+* at 27, removed temporal lobes (hippocampus) to prevent seizures
+* remembered old memories from before the surgery
+* could not make new memories
+## anterograde amnesia
+* damage to hippocampus leads to inability to form new memories, but retention of old memories
+* he could form implicit memories.
+* learned how to play tower of hanoi
+* didn't remember that he'd already played, but he got better and learned anyway
+* could learn piano songs, but didn't remember learning them
+* there were some remaining undamaged regions of the brain indirectly used for recalling that were enough to recall encoded information from before the surgery
+## inaccurate memory
+* false memories can be planted
+* imagining events that didn't happen can plant a memory
+* "you got lost in a mall as a kid" "no i didn't" come back later "i know i said i didn't before, but i think i actually did"
+* imagining things can create memories
+* imaginative people are more susceptible to false memories
+* imagining and perceiving activate similar brain areas
+* suggesting interviewing and leading questions can alter memories
+## misinformation effect
+* planting false memories with suggesting questions
+* "how fast were the cars going when they (hit, smashed) into each other?" smashed people thought the cars were going faster and overestimated the damage
+## childhood memories
+* teenagers and adults can't remember stuff from 3 years or younger, but 6 year olds can
+## eyewitness memory
+* many false convictions are due to false eyewitness identification
+* difficult to recognize or distinguish members of another race
